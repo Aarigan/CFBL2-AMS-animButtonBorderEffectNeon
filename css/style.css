@@ -39,6 +39,7 @@ button {
   padding: .625em 1.375em;
   border: none;
   outline: none;
+  /* outline-color: transparent; */
   background: var(--clr-bkg);
   color: #01e3ef;
   font-size: 1.125em;
